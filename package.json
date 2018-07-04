@@ -1,0 +1,24 @@
+{
+  "name": "multiLog21",
+  "version": "1.0.0",
+  "description": "script",
+  "main": "multiLog21.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymlair/multiLog21.git"
+  },
+  "keywords": [
+    "multilog",
+    "tail",
+    "log"
+  ],
+  "author": "zhangyiming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymlair/multiLog21/issues"
+  },
+  "homepage": "https://github.com/ymlair/multiLog21#readme",
+  "dependencies": {
+    "chokidar": "~2.0.4"
+  }
+}
